@@ -1,0 +1,27 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.13",
+  "apiVersion": 1,
+  "author": {
+    "name": "UnearthlyWeeb",
+    "id": "000000000000000000"
+  },
+  "service": "HiAnime",
+  "description": {
+    "en": "HiAnime is an anime streaming platform that lets you watch your favorite anime online for free in HD quality."
+  },
+  "url": "hianime.to",
+  "version": "1.0.0",
+  "logo": "https://hianime.to/images/favicon.ico",
+  "thumbnail": "https://hianime.to/images/favicon.ico",
+  "color": "#7C3AED",
+  "category": "anime",
+  "tags": ["anime", "streaming", "video", "hianime"],
+  "settings": [
+    {
+      "id": "buttons",
+      "title": "Show Buttons",
+      "icon": "fas fa-link",
+      "value": true
+    }
+  ]
+}
